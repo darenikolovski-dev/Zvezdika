@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zvezdika cannabisa – Wikipedia</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+        #content {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-left: 1px solid #ccc;
+            border-right: 1px solid #ccc;
+        }
+        h1, h2 {
+            font-family: "Linux Libertine", "Georgia", serif;
+        }
+        .infobox {
+            float: right;
+            width: 260px;
+            background: #f8f8f8;
+            border: 1px solid #aaa;
+            padding: 10px;
+            margin: 0 0 15px 15px;
+            font-size: 14px;
+        }
+        .infobox th {
+            background: #e9e9e9;
+            padding: 5px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .infobox td {
+            padding: 3px 5px;
+        }
+        footer {
+            text-align: center;
+            color: #777;
+            padding: 20px;
+            font-size: 14px;
+        }
+        a { color: #0645ad; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+
+<div id="content">
+    
+    <h1>Zvezdika cannabisa</h1>
+    <p><i>Izmišljena rastlinska sorta</i></p>
+    
+    <table class="infobox">
+        <tr><th colspan="2">Zvezdika cannabisa</th></tr>
+        <tr>
+            <td colspan="2" style="text-align:center;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Poinsettia_red.jpg/240px-Poinsettia_red.jpg" 
+                     alt="Zvezdika cannabisa (fiktivna slika)">
+                <p style="font-size:12px;">*Primer okrasne oblike (slika simbolična)*</p>
+            </td>
+        </tr>
+        <tr><td><b>Znanstveno ime</b></td><td><i>Euphorbia cannabica festiva</i></td></tr>
+        <tr><td><b>Družina</b></td><td>Euphorbiaceae</td></tr>
+        <tr><td><b>Izvor</b></td><td>Fiktivni hibrid</td></tr>
+        <tr><td><b>Uporaba</b></td><td>Okrasna rastlina</td></tr>
+    </table>
+
+
+    <p><b>Zvezdika cannabisa</b> (<i>Euphorbia cannabica festiva</i>) je izmišljena hibridna rastlina, 
+    ki naj bi po pripovedih nastala kot križanec med božično zvezdo 
+    (<i>Euphorbia pulcherrima</i>) in industrijsko konopljo 
+    (<i>Cannabis sativa</i>). Eden izmed najbolj prepoznavnih elementov rastline 
+    je kombinacija rdečih, zvezdastih listov in nazobčanega zelenega listja, 
+    ki spominja na konopljino obliko.</p>
+
+
+    <h2>Opis</h2>
+    <p>Zvezdika cannabisa je majhna okrasna rastlina, ki doseže 25–40 cm višine. 
+    Njena struktura je podobna božični zvezdi, vendar ima spodnji del listov 
+    podaljšane, prstaste oblike. Rastlina oddaja blag vonj po zeliščih in 
+    začimbah, ki ga nekateri opisujejo kot mešanico cimeta in sveže trave.</p>
+
+
+    <h2>Rastišče in razširjenost</h2>
+    <p>Ker gre za fiktivno hibridno sorto, rastlina nima naravnega rastišča. 
+    Prvi nepreverjeni zapisi o “pojavu” rastline segajo v začetke 2000-ih, 
+    ko naj bi jo ljubiteljski botaniki vzgajali v zaprtih prostorih. 
+    Nobene znanstvene potrditve o njenem obstoju ni.</p>
+
+
+    <h2>Lastnosti</h2>
+    <ul>
+        <li>Listi spreminjajo barvo glede na količino svetlobe.</li>
+        <li>Odporna na krajše dneve, značilne za zimsko obdobje.</li>
+        <li>Okrasna in neuporabna za predelavo — ne vsebuje psihoaktivnih snovi.</li>
+        <li>Priljubljena v šaljivih, alternativnih prazničnih aranžmajih.</li>
+    </ul>
+
+
+    <h2>Kulturni pomen</h2>
+    <p>V spletnih skupnostih se rastlina pogosto pojavlja kot humoristična 
+    "alternativna božična zvezda". Zaradi svoje nenavadne oblike je postala 
+    simbol ustvarjalnosti in eksperimentiranja v okrasnem vrtnarstvu.</p>
+
+
+    <h2>Glej tudi</h2>
+    <ul>
+        <li>Božična zvezda</li>
+        <li>Konoplja (rastlina)</li>
+        <li>Seznam fiktivnih rastlinskih hibridov</li>
+    </ul>
+
+
+</div>
+
+
+<footer>
+    Stran je v celoti fiktivna in nima povezave z dejansko Wikipedijo.
+</footer>
+
+
+</body>
+</html>
+
